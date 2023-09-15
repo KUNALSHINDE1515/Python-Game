@@ -9,5 +9,7 @@ var={"name":"kunal","age":21,"username":"shinde","password":"kunal1234"}
 
 # print(var.items())
 
-for key,values in var.items():
-    print(key,values,sep="-")
+"""for key,values in var.items():
+    print(key,values,sep="-") """
+
+
