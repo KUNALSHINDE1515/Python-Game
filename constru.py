@@ -1,7 +1,7 @@
                           #PYTHON COnstructor #
 
 class A:
-    age=10
+    age=20
     def __init__(self):
        name="kunal"
        print(name," ",self.age)
