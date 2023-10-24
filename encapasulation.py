@@ -12,4 +12,5 @@ obj=A()
 obj.Show()
 print("Outside of class ",obj._a)
 
+# 
 print("Outside of class ",obj.__b)
