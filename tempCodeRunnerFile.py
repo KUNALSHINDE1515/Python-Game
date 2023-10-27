@@ -1,8 +1,3 @@
-                          #PYTHON COnstructor #
+                     #Polymorphims Python
 
-class A:
-    def __init__(self):
-       name="kunal"
-       print(name)
-
-obj=A()
+print(5+5)
